@@ -5,3 +5,4 @@ argparse
 loguru 
 pdf2docx 
 docx
+yaml
